@@ -14,7 +14,7 @@
   <li>👨‍💻 Embedded Software Developer & IoT Enthusiast</li>
   <li>📖 Currently learning C++, BSP, and Embedded Systems</li>
   <li>💞 Looking for collaborations in the Embedded Systems and IoT space</li>
-  <li>🌐 Check out my <a href="https://omkar7637.github.io/PORTFOLIO/#projects" target="_blank">Portfolio</a> to know more about me!</li>
+  <li>🌐 Check out my <a href="https://omkar7637.github.io/PORTFOLIO" target="_blank">Portfolio</a> to know more about me!</li>
 </ul>
 
 <br><br>
