@@ -47,7 +47,7 @@
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Omkar7637&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Omkar7637&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">
 </p>
 
 <br><br>
