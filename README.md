@@ -3,7 +3,7 @@
 </h2>
 
 <a href="https://omkar7637.github.io/" align="left">
-  <img align="left" width="120" alt="Omkar's profile picture" src="https://github.com/Omkar7637/Omkar7637/assets/your-profile-pic.png">
+  <img align="left" width="120" alt="Omkar's profile picture" src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/nav-avatar.png">
 </a>
 <br><br>
 
@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omkar-kashid-728072222/" target="_blank">
-    <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="LinkedIn" height="50" >
+    <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="LinkedIn" height="50">
   </a>
   <a href="mailto:omkarkashid@yourdomain.com" target="_blank">
     <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail">
