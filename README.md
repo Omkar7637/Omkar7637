@@ -59,9 +59,19 @@
 
 ### 🔧 Skills & Technologies:
 <p align="left">
-  <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/ba7d4b8c-8fcf-43d4-8aaa-81977ca5d252" alt="C" height="50" title="C">
-  <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="C++" height="50" title="C++">
-  <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/4e342502-fa63-4699-8f2d-06c5150171b4" alt="Linux" height="50" title="Linux">
-  <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Embedded" height="50" title="Embedded Systems">
-  <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/7e6a7c30-5749-4a50-815b-965e9a09530e" alt="Raspberry Pi" height="50" title="Raspberry Pi">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/clogo.png" alt="C" height="50" title="C">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/C++%20(CPlusPlus).png" alt="C++" height="50" title="C++">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Linux.png" alt="Linux" height="50" title="Linux">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Arm_Holdings-Logo.wine.png" alt="Arm Cortex-M" height="50" title="Arm Cortex-M">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Raspberry%20Pi.png" alt="Raspberry Pi" height="50" title="Raspberry Pi">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Ubuntu.png" alt="Ubuntu" height="50" title="Ubuntu">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Python.png" alt="Python" height="50" title="Python">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/githublogo.png" alt="GitHub" height="50" title="GitHub">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/gitlogo.png" alt="Git" height="50" title="Git">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/htmllogo.png" alt="HTML" height="50" title="HTML">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/csslogo.png" alt="CSS" height="50" title="CSS">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/sql.png" alt="SQL" height="50" title="SQL">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Windows%2011.png" alt="Windows" height="50" title="Windows">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Embedded%20C.png" alt="Embedded C" height="50" title="Embedded C">
 </p>
+
