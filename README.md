@@ -26,10 +26,10 @@
   <a href="mailto:omkarkashid@yourdomain.com" target="_blank">
     <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail">
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter">
+  <a href="https://x.com/Omkarkashid7637" target="_blank">
+    <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="X (Twitter)" height="50" title="X (Twitter)">
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/omkar_kashid_7637/" target="_blank">
     <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram">
   </a>
 </p>
@@ -74,4 +74,3 @@
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Windows%2011.png" alt="Windows" height="50" title="Windows">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Embedded%20C.png" alt="Embedded C" height="50" title="Embedded C">
 </p>
-
