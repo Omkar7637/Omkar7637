@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&center=true&vCenter=true&width=435&lines=Learning%2C+Living%2C+and+Leveling+up." alt="Typing SVG" />
 </h2>
 
-
+<a href="https://omkar7637.github.io/" align="left">
+  <img align="left" width="120" alt="Omkar's profile picture" src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/nav-avatar.png">
+</a>
+<br><br>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Omkar7637&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Omkar7637)
 
@@ -18,9 +21,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omkar-kashid-728072222/" target="_blank">
-    <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="LinkedIn" height="50">
+    <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="LinkedIn" height="50" >
   </a>
-  <a href="mailto:omkarkashid@yourdomain.com" target="_blank">
+  <a href="mailto:omkarkashidok@gmail.com" target="_blank">
     <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail">
   </a>
   <a href="https://twitter.com/Omkarkashid7637" target="_blank">
@@ -74,12 +77,73 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Omkar7637/PORTFOLIO/tree/main/src/pdf/___OMKAR_ANKUSH_KASHID___C-DAC.pdf" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #9B72FF; color: white; border: none; border-radius: 5px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
-      Download Resume
-    </button>
-  </a>
-</p>
+### 📄 Experience
 
-<br>
+**Ingenious Engineering & Automation Pvt. Ltd., Pune, Maharashtra**  
+*Embedded Software Engineer (Trainee)*  
+*01/2023 - 10/2023*  
+- Hands-on training in SQL, SSRS, Node-Red, Arduino, HTML, CSS, and IoT Fundamentals.
+- Developed Heavy Lifting Crane (HLC) monitoring system using IoT Hardware.
+- Provided front-end and back-end support for HTML, CSS, and MySQL.
+- Coordinated coding efforts using C and C++.
+
+**Learnal Yaticstech Academy Pvt. Ltd., Pune, Maharashtra**  
+*Engineer Trainee*  
+*01/2022 - 07/2022*  
+- Worked on various projects using Atmega328, Atmega8A Controllers.
+- Developed projects using Node-MCU Arduino and Microcontrollers.
+- Learned IoT concepts and embedded programming using Arduino IDE.
+
+### 📈 Projects
+
+- **STM32 BareMetalOS - Crafting from Scratch**  
+  *Platform:* Embedded Linux Development  
+  *Description:* Designed an STM32 OS kernel managing tasks efficiently. Demonstrated expertise in embedded systems development and OS fundamentals.  
+  *Project Repository:* [GitHub](https://github.com/Omkar7637/STM32-BareMetalOS-Crafting-from-Scratch)
+
+- **Intelligent Guided Vehicle (IGV) Project**  
+  *Platform:* Embedded Linux Development  
+  *Description:* Developed an autonomous vehicle for agriculture-based activities using modern AI and embedded electronics, implemented on BareMetal OS (BMOS) using STM32 microcontrollers.  
+  *Project Repository:* [GitHub](https://github.com/Omkar7637/Intelligent_Guided_Vehicle_IGV_on_BareMetalOS)
+
+- **Ionizer Based MultipH Water Dispenser**  
+  *Platform:* Embedded System Design  
+  *Description:* Created a home appliance using electrolysis to produce alkaline and acidic water for various applications.
+
+- **Arduino Based Gas Leakage Detection for Living Security**  
+  *Platform:* Electronic Circuit Design  
+  *Description:* Developed a smart system to detect and prevent hazards from LPG leaks.  
+  *IRJET Paper Publish:* International Research Journal of Engineering & Technology (IRJET)
+
+- **Scrolling Display Using NeoPixel LED Matrix**  
+  *Platform:* Embedded System Design  
+  *Description:* Developed an LED display system using NeoPixel technology and integrated USB to TTL converter for programming.
+
+### 🎓 Education
+
+**Sunbeam Institute of Information Technology (C-DAC), Pune, Maharashtra**  
+*Post Graduate Diploma in Embedded System Design (PG-DESD)*  
+*Percentage:* 70.6 / 100  
+*03/2024 - 08/2024*
+
+**Savitribai Phule Pune University, Pune, Maharashtra**  
+*Bachelor of Engineering in Electronics and Telecommunications Engineering*  
+*Percentage:* 75 / 100  
+*01/2020 - 07/2023*
+
+**Maeer’s MIT Polytechnic, Pune, Maharashtra**  
+*Diploma in Electronics and Telecommunications Engineering*  
+*Percentage:* 86 / 100  
+*08/2017 - 12/2019*
+
+---
+
+**Declaration:**  
+I hereby declare that the information given above is true to the best of my knowledge and belief.
+
+---
+
+**Contact Information:**  
+- 📞 +91-7720954175  
+- 📧 omkarkashidok@gmail.com  
+- 🌍 Maharashtra, India  
