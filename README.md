@@ -73,7 +73,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Omkar7637/PORTFOLIO/tree/main/src/pdf/___OMKAR_ANKUSH_KASHID___C-DAC.pdf" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Omkar7637/PORTFOLIO/blob/main/src/pdf/Resume%20Omkar%20kashid.pdf" target="_blank" style="text-decoration: none;">
     <button style="background-color: #9B72FF; color: white; border: none; border-radius: 5px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
       Download Resume
     </button>
